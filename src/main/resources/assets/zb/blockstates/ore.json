@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=copper": { "model": "zb:ore_copper" },
+		"type=silver": { "model": "zb:ore_silver" },
+		"type=tin": { "model": "zb:ore_tin" }
+	}
+}

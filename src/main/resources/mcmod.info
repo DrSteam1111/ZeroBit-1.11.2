@@ -1,0 +1,17 @@
+[
+{
+  "modid": "zb",
+  "name": "ZeroBit",
+  "description": "A Minecraft Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.drsteam1111.com",
+  "updateUrl": "",
+  "authorList": ["DrSteam1111"],
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "requireMods": ["cjcore", "chisel", "ctm"],
+  "dependencies": ["cjcore", "chisel", "ctm"]
+}
+]

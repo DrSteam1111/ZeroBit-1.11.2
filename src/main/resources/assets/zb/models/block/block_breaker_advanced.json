@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "zb:blocks/block_breaker_advanced_back",
+		"north": "zb:blocks/block_breaker_advanced_front",
+		"south": "zb:blocks/block_breaker_advanced_back",
+		"east": "zb:blocks/block_breaker_advanced_east",
+		"west": "zb:blocks/block_breaker_advanced_west",
+		"up": "zb:blocks/block_breaker_advanced_top",
+		"down": "zb:blocks/block_breaker_advanced_bottom"
+	}
+}

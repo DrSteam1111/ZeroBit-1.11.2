@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=north": { "model": "zb:compressor" },
+		"facing=south": { "model": "zb:compressor", "y": 180 },
+		"facing=east": { "model": "zb:compressor", "y": 90 },
+		"facing=west": { "model": "zb:compressor", "y": 270 },
+		"facing=up": { "model": "zb:compressor", "x": 270 },
+		"facing=down": { "model": "zb:compressor", "x": 90 }
+		}
+}

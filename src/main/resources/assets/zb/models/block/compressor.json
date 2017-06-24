@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "zb:blocks/compressor",
+		"north": "zb:blocks/compressor",
+		"south": "zb:blocks/compressor",
+		"east": "zb:blocks/compressor",
+		"west": "zb:blocks/compressor_fliped",
+		"up": "zb:blocks/compressor_flat",
+		"down": "zb:blocks/compressor_flat"
+	}
+}

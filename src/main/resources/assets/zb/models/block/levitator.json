@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "zb:blocks/levitator_top",
+		"north": "zb:blocks/levitator_side",
+		"south": "zb:blocks/levitator_side",
+		"east": "zb:blocks/levitator_side",
+		"west": "zb:blocks/levitator_side",
+		"up": "zb:blocks/levitator_top",
+		"down": "zb:blocks/levitator_top"
+    }
+}

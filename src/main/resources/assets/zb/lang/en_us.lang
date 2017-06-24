@@ -1,0 +1,52 @@
+#############################
+##   Lang- English(US)     ##
+##   Made By- DrSteam1111  ##
+#############################
+
+#CREATIVE TABS#
+itemGroup.zb=ZeroBit
+
+#ITEMS#
+item.ingot.copper.name=Copper Ingot
+item.ingot.silver.name=Silver Ingot
+item.ingot.tin.name=Tin Ingot
+item.ingot.compressed.name=Compressed Ingot
+item.chip.basic.name=§aBasic Chip
+item.chip.advanced.name=§9Advanced Chip
+item.zbmaterial.rubber.name=Rubber
+item.zbmaterial.rubber_essence.name=Rubber Essence
+item.wand.name=Teleportaion Wand
+
+#BLOCKS#
+tile.block.copper.name=Block of Copper
+tile.block.silver.name=Block of Silver
+tile.block.tin.name=Block of Tin
+tile.block.compressed.name=Block of Compressed
+tile.compressor.name=Compressor
+tile.block_breaker.basic.name=Block Breaker (§aBasic§f)
+tile.block_breaker.advanced.name=Block Breaker (§9Advanced§f)
+tile.machine_frame.basic.name=Machine Frame (§aBasic§f)
+tile.machine_frame.advanced.name=Machine Frame (§9Advanced§f)
+tile.levitator.name=Levitator
+
+#ORES#
+tile.ore.copper.name=Copper Ore
+tile.ore.silver.name=Silver Ore
+tile.ore.tin.name=Tin Ore
+
+
+#Container#
+container.compressor=Compressor
+container.block_breaker=Block Breaker
+
+#Gui#
+gui.block_breaker.enchanted_book.tooltip=Enchanted book goes here
+gui.config.main_title=ZeroBit Configuration
+gui.config.category.blocks=Blocks
+gui.config.category.blocks.tooltip=All Block settings
+gui.config.blocks.ore_spawn_rate_multiplier.name=Ore Spawn Rate Multiplier
+gui.config.blocks.ore_spawn_rate_multiplier.comment=Times the value with the chance to spawn number
+gui.config.blocks.machine_cooldown_basic.name=Basic Machine Cooldown
+gui.config.blocks.machine_cooldown_basic.comment=The cooldown for the basic tier of machine
+gui.config.blocks.machine_cooldown_advanced.name=Advanced Machine Cooldown
+gui.config.blocks.machine_cooldown_advanced.comment=The cooldown for the advanced tier of machine
